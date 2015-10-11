@@ -1,0 +1,4 @@
+node_modules
+client/assets/libs
+npm-debug.log
+/*.log
